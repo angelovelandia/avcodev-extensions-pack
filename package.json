@@ -1,11 +1,11 @@
 {
-  "name": "lovedev-extensions-pack",
-  "displayName": "Extension Pack @lovedev",
-  "version": "0.0.6",
-  "publisher": "lovedev",
-  "description": "I got tired of installing one by one all my extensions, so I decided to create this pack for you, so you can install everything I use to develop easily and quickly when setting up your workspace.",
+  "name": "avcodev-extensions-pack",
+  "displayName": "@avcodev Extensions Dev's",
+  "version": "0.0.2",
+  "publisher": "avcodev",
+  "description": "Compilado de EXT de VSCode para Dev's.",
   "author": {
-    "name": "Angelo Velandia <@lovedev>"
+    "name": "Angelo Velandia <@avcodev>"
   },
   "engines": {
     "vscode": "^1.70.0"
@@ -19,7 +19,6 @@
     "theme": "dark"
   },
   "extensionPack": [ 
-    "RapidAPI.vscode-rapidapi-client",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-complete-tag",
     "formulahendry.auto-rename-tag",
@@ -28,8 +27,7 @@
     "vincaslt.highlight-matching-tag",
     "ritwickdey.LiveServer",
     "esbenp.prettier-vscode",
-    "Natizyskunk.sftp",
-    "TabNine.tabnine-vscode",
+    "satiromarra.code-sftp",
     "dsznajder.es7-react-js-snippets",
     "TTOOWA.in-your-face-incredible",
     "kisstkondoros.vscode-gutter-preview",
@@ -38,26 +36,22 @@
     "christian-kohler.path-intellisense",
     "christian-kohler.npm-intellisense",
     "mikestead.dotenv",
-    "Angular.ng-template",
     "aaron-bond.better-comments",
     "formulahendry.code-runner",
     "ms-azuretools.vscode-docker",
     "usernamehw.errorlens",
     "adpyke.codesnap",
     "ecmel.vscode-html-css",
-    "Prisma.prisma",
-    "jundat95.react-native-snippet",
-    "svelte.svelte-vscode",
     "ChakrounAnas.turbo-console-log",
     "onlyutkarsh.vsix-viewer"
   ],
   "bugs": {
-    "url": "https://github.com/angelovelandia/lovedev-extensions-pack/issues",
+    "url": "https://github.com/angelovelandia/avcodev-extensions-pack/issues",
     "email": "velandia_angelo@outlook.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angelovelandia/lovedev-extensions-pack.git"
+    "url": "https://github.com/angelovelandia/avcodev-extensions-pack.git"
   },
-  "homepage": "https://github.com/angelovelandia/lovedev-extensions-pack/blob/main/README.md"
+  "homepage": "https://github.com/angelovelandia/avcodev-extensions-pack/blob/main/README.md"
 }
